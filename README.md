@@ -118,7 +118,7 @@ Note: If you're in the web editor and don’t see export options under **File**,
 **Vasuki Arul**  
 Data Science Enthusiast | ML | Tableau Developer  
 📫 vasukiarul27@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/) *(optional)*
+🔗 [LinkedIn](https://www.linkedin.com/posts/vasuki27_tableau-dataanalytics-dataviz-activity-7329174677451345920-t5is?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWofHABP5vZ1q4SVksdeQ_qxpl9ilnOKXM)
 
 ---
 
