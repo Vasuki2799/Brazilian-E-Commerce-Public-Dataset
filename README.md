@@ -1,7 +1,5 @@
 # 📊 Brazilian E-Commerce Public Dataset – Data Analysis & Tableau Dashboard
 
-![Uploading Brazilian E-Commerce Insights (Olist).png…]()
-
 
 ## 👋 Overview
 This project involves analyzing the **Brazilian E-Commerce Public Dataset by Olist** and building insightful, interactive visualizations using **Tableau**. It combines basic data preprocessing in Python with powerful visuals in Tableau to deliver a business-level understanding of e-commerce trends in Brazil.
