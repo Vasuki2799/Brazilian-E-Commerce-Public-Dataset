@@ -61,9 +61,6 @@ Here are the visual insights created using **Tableau**:
 ### 5. 🥧 Distribution of Orders by Payment Type *(Pie Chart)*
 - Visual breakdown of payment methods used.
 
-### 6. 🍩 Donut Chart *(Enhanced Pie View)*
-- Same as above but with cleaner proportional view.
-
 ---
 
 ## 🧠 Key Insights
